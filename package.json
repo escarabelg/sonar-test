@@ -1,8 +1,7 @@
 {
-  "name": "express-react-monorepo",
+  "name": "",
   "version": "0.0.1",
   "main": "index.js",
-  "author": "Benoit Hubert <benoithubert@gmail.com>",
   "license": "MIT",
   "scripts": {
     "lint": "lerna run lint --stream",
